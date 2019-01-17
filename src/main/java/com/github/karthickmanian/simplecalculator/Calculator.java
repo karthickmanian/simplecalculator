@@ -1,7 +1,7 @@
 package com.github.karthickmanian.simplecalculator;
 
 /**
- *  Simple program to understand test
+ *  Simple program for hosting maven project
  */
 public class Calculator {
     public static Integer add(Integer operator1, Integer operator2) {
